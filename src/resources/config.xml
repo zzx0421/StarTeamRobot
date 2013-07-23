@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+	<comment>
+		注意：请将该文件采用UTF-8文件编码，否则将出现中文注释乱码 生成后须将xml拷贝到相应的目录结构中
+	</comment>
+	<!-- 服务器地址 -->
+	<entry key="serverAddress">10.10.21.101</entry>
+	<!-- 服务器端口 -->
+	<entry key="serverPort">10000</entry>
+	<!-- 检索本地磁盘目录 -->
+	<entry key="localDirectory">D:/FWMS_CHRIST/code/webApp/basic</entry>
+	<!-- 检索配置:starteam/directory -->
+	<entry key="searchDirectoryOrStarTeam">10000</entry>
+</properties>
